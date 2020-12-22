@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_547336_wish_list_wish_item</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Sets the Item field to mandatory</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-22 05:56:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d169caa42f5520107a74b8e72799b68e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sets the Item field to mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_547336_wish_list">c7c70eac2f1520107a74b8e72799b6b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">c7c70eac2f1520107a74b8e72799b6b4</sys_scope>
+        <sys_update_name>sys_data_policy2_d169caa42f5520107a74b8e72799b68e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-22 05:56:30</sys_updated_on>
+    </sys_data_policy2>
+</record_update>
